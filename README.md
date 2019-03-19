@@ -73,7 +73,7 @@ C:.
                 Util.java
 ```
 
-#Create and execute a JAR or develop without IDE (just commandline)
+# Create and execute a JAR or develop without IDE (just commandline)
 
 ## create a JAR file
 ```
@@ -84,7 +84,7 @@ adding: com/example/(in = 0) (out= 0)(stored 0%)
 adding: com/example/Code.java/(in = 0) (out= 0)(stored 0%)
 ```
 
-##MANIFEST.MF
+## MANIFEST.MF
 This will be automatically created by `jar` command. 
 This is also the minimum requierd content for a MANIFEST.MF.
 ```
